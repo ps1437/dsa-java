@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72cefff9-4c31-4751-a2a6-26afd3067d8a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/syscho/dsa/binarysearchtree/InorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/syscho/dsa/string/RotateString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syscho/dsa/binarysearchtree/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/syscho/dsa/binarysearchtree/BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syscho/dsa/binarysearchtree/CreateTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/syscho/dsa/binarysearchtree/CreateTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syscho/dsa/binarysearchtree/DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/syscho/dsa/binarysearchtree/DFS_IN_PRE_POST_ORDER.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syscho/dsa/binarysearchtree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/syscho/dsa/binarysearchtree/TreeNode.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="dsa" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2fM39thnPnrzMvuMQYNk626Q2ce" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build dsa-java.executor": "Run",
+    "Gradle.Build dsa.executor": "Run",
+    "Gradle.dsa [:CountOccurence.main()].executor": "Run",
+    "Gradle.dsa [:FindFirstAndLastPosition.main()].executor": "Run",
+    "Gradle.dsa [:FloorCeilSorted.main()].executor": "Run",
+    "Gradle.dsa [:MaxSubArrayOfSizeK.main()].executor": "Run",
+    "Gradle.dsa [:MyLinkedListTester.main()].executor": "Run",
+    "Gradle.dsa [:MyListEmployeeTester.main()].executor": "Run",
+    "Gradle.dsa [:MyListTester.main()].executor": "Run",
+    "Gradle.dsa [:MySetEmpTester.main()].executor": "Run",
+    "Gradle.dsa [:MySetTester.main()].executor": "Run",
+    "Gradle.dsa [:MyStackEmployeeTester.main()].executor": "Run",
+    "Gradle.dsa [:MyStackTester.main()].executor": "Run",
+    "Gradle.dsa [:PrintAllDivisors.main()].executor": "Run",
+    "Gradle.dsa [:PrintAllPrimeDivisors.main()].executor": "Run",
+    "Gradle.dsa [:SearchInsertPosition.main()].executor": "Run",
+    "Gradle.dsa [:SmallestSubArrayWithSumK.main()].executor": "Run",
+    "Gradle.dsa [:Solution.main()].executor": "Run",
+    "Gradle.dsa [:SortedArrayRotated.main()].executor": "Run",
+    "Gradle.dsa [:Swap.main()].executor": "Run",
+    "Gradle.dsa [:UpperLowerBound.main()].executor": "Run",
+    "Gradle.dsa-java [:ArraySortedRotatedOrNot.main()].executor": "Run",
+    "Gradle.dsa-java [:BFS.main()].executor": "Run",
+    "Gradle.dsa-java [:CreateTree.main()].executor": "Run",
+    "Gradle.dsa-java [:DFS.main()].executor": "Run",
+    "Gradle.dsa-java [:PeakElement.main()].executor": "Run",
+    "Gradle.dsa-java [:RotateString.main()].executor": "Run",
+    "Gradle.dsa-java [:SortedArrayRotated.main()].executor": "Run",
+    "JUnit.ArmstrongNumbers.armstrongNumbersTest.executor": "Run",
+    "JUnit.Binarysearch.executor": "Run",
+    "JUnit.Binarysearch.test.executor": "Run",
+    "JUnit.Binarysearch.testBinarysearch.executor": "Run",
+    "JUnit.Binarysearch.testBinarysearchDesc.executor": "Run",
+    "JUnit.CountDigit.executor": "Run",
+    "JUnit.Factorial.factorialTest.executor": "Run",
+    "JUnit.GCD.GCDTest.executor": "Run",
+    "JUnit.GCD.testGCD.executor": "Run",
+    "JUnit.PrimeNumber.primeNumberTest.executor": "Run",
+    "JUnit.PrimeNumber.primeNumberTestOptimal.executor": "Run",
+    "JUnit.PrintAllPrimeDivisors.allPrimeTest.executor": "Run",
+    "JUnit.PrintAllPrimeDivisors.executor": "Run",
+    "JUnit.PrintAllPrimeDivisors.testAllPrimeDivisors.executor": "Run",
+    "JUnit.PrintAllPrimeNumber.testPrintPrimeFactor.executor": "Run",
+    "JUnit.TrailingZeroFactorial.trailingZeroFactorialTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/workspace/Java/DSA-PRO/dsa/src/main/java/com/syscho/dsa/backtracking",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\Java\DSA-PRO\dsa\src\main\java\com\syscho\dsa\backtracking" />
+      <recent name="D:\workspace\Java\DSA-PRO\dsa\src\main\java\com\syscho\dsa\search" />
+      <recent name="D:\workspace\Java\DSA-PRO\dsa\src\main\java\com\syscho\dsa\datastructure\stack" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.syscho.dsa.binarySearch" />
+      <recent name="com.syscho.dsa.maths" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="SortedArrayRotated" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RotateString">
+    <configuration name="ArraySortedRotatedOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syscho.dsa.binarySearch.ArraySortedRotatedOrNot" />
+      <module name="dsa.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syscho.dsa.binarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syscho.dsa.binarysearchtree.BFS" />
+      <module name="dsa.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syscho.dsa.binarysearchtree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syscho.dsa.binarysearchtree.CreateTree" />
+      <module name="dsa.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syscho.dsa.binarysearchtree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFS_IN_PRE_POST_ORDER" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syscho.dsa.binarysearchtree.DFS_IN_PRE_POST_ORDER" />
+      <module name="dsa.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syscho.dsa.binarysearchtree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syscho.dsa.string.RotateString" />
+      <module name="dsa.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syscho.dsa.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RotateString" />
+        <item itemvalue="Application.BFS" />
+        <item itemvalue="Application.CreateTree" />
+        <item itemvalue="Application.DFS_IN_PRE_POST_ORDER" />
+        <item itemvalue="Application.ArraySortedRotatedOrNot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72cefff9-4c31-4751-a2a6-26afd3067d8a" name="Changes" comment="" />
+      <created>1713596972237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713596972237</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/syscho/dsa/datastructure/list/MyListTester.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/syscho/dsa/datastructure/linkedList/MyLinkedListTester.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/syscho/dsa/datastructure/linkedList/MyLinkedList.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/syscho/dsa/datastructure/linkedList/MyLinkedList.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/syscho/dsa/maths/TrailingZeroFactorial.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/syscho/dsa/maths/ReverseNumber.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/syscho/dsa/twoPointer_slidingWindow/SmallestSubArrayWithSumK.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/syscho/dsa/binarySearch/FloorCeilSorted.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/syscho/dsa/binarySearch/FindFirstAndLastPosition.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
